@@ -1,24 +1,25 @@
 name: munchmatch
-description: "A new Flutter project."
+description: A new Flutter project.
+
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: '>=2.17.0 <3.0.0' # Ensure this is 2.17.0 or higher
 
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
-  http: ^1.2.1 # Updated version
-  firebase_core: ^2.3.0 # or the latest version
-  cloud_functions: ^4.0.0 # or the latest version
+  http: ^1.2.1
+  firebase_core: ^3.1.0
+  cloud_functions: ^5.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
   uses-material-design: true
