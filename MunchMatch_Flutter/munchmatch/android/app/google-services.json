@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560563095562",
+    "project_id": "munchmatch-9e2fe",
+    "storage_bucket": "munchmatch-9e2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560563095562:android:f76f385a6dd65752e8b7f3",
+        "android_client_info": {
+          "package_name": "com.android.munchmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAnf_n7Pd0pXnRT13EmV1SJET2fsgzaFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
